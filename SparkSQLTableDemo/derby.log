@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Aug 27 16:01:53 PKT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-017b-8745-f435-000009b96610 
+on database directory D:\My Work Folder\Scala and Spark Work\Learning Journal Spark\Learning Journal Scala Spark Beginner\My Practice\SparkSQLTableDemo\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5451c3a8 
+Loaded from file:/C:/Users/safiz/.ivy2/cache/org.apache.derby/derby/jars/derby-10.12.1.1.jar
+java.vendor=JetBrains s.r.o
+java.runtime.version=11.0.4+10-b304.77
+user.dir=D:\My Work Folder\Scala and Spark Work\Learning Journal Spark\Learning Journal Scala Spark Beginner\My Practice\SparkSQLTableDemo
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
